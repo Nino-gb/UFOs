@@ -9,7 +9,7 @@ Customize UFO Sightings webpage using Bootstrap, and equip UFO table with severa
 
 ## Results: 
 
-> ### ***1. When the user access to the UFO webpage will see the UFO's header, article and table with the date, city, state, country, and shape as a search criteria***
+> ### ***1. When a user access to the UFO webpage they will be able to see the UFO's header, article and table with the date, city, state, country, and shape as a search criteria***
 ![Screen Shot 2022-10-26 at 11 43 42 AM](https://user-images.githubusercontent.com/110786136/198096438-13b60992-e169-4c06-88b3-cf5e85856ef1.png)
 
 >### ***2. Users can narrow or customize table search by inputting the type of result they want in the filter search placeholders under date, city, state, country, and shape. Looking the example below we can see that user filtered the table by entering the following criteria ;***
